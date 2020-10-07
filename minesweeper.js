@@ -86,7 +86,7 @@ function checkForWin () {
       return;
     }
   }
-  return   lib.displayMessage('You win!')
+  return lib.displayMessage('You win!')
 
 }
 
